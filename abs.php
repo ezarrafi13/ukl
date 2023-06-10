@@ -104,9 +104,9 @@
 <body>
 <div class="navbar">
         <a href="http://localhost:8080/HEI/home.php">Home</a>
-        <a href="http://localhost:8080/HEI/kas.php">Kas</a>
-        <a href="http://localhost:8080/HEI/about.php">About Us</a>
-        <a href="http://localhost:8080/HEI/contact.php">Contact</a>
+        <a href="http://localhost:8080/HEI/kas.html">Kas</a>
+        <a href="http://localhost:8080/HEI/about.html">About Us</a>
+        <a href="http://localhost:8080/HEI/contact.html">Contact</a>
     </div>
     <h1>Absensi Siswa</h1>
     <div class="container">
